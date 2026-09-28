@@ -1,0 +1,17 @@
+FindBackAI/
+├── run.py
+├── requirements.txt
+├── README.md
+├── findback.db (created automatically)
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── auth.html
+│   ├── report.html
+│   ├── search.html
+│   ├── item.html
+│   └── dashboard.html
+└── static/
+    ├── style.css
+    ├── app.js
+    └── uploads/
