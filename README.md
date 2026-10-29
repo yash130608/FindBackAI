@@ -1,4 +1,4 @@
-# FindBack AI — HackBIOS 2K26
+# FindBack AI —
 
 Complete Flask + SQLite college Lost & Found platform based on the supplied project brief.
 
